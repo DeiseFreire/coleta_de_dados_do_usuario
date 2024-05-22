@@ -1,4 +1,4 @@
-[![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@DeiseFreire2022/Lernomeenderecotelefone)
+[![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@DeiseFreire2022/Lernomeenderecotelefone) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Gerenciamento de Dados do Usuário
 
