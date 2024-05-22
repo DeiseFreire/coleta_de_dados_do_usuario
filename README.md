@@ -42,3 +42,7 @@ print(f"Telefone: {telefone}")
 * Implementar validação de entrada para garantir que os dados sejam digitados nos formatos corretos.
 * Adicionar opções para salvar os dados do usuário em um arquivo ou banco de dados.
 * Criar uma interface gráfica do usuário para facilitar a coleta de dados.
+
+## Tags
+
+#coleta-de-dados, #Python, #iniciantes-em-programação, #estudantes, #iniciantes, #nome, #endereco, #telefone
