@@ -1,4 +1,4 @@
-[![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@DeiseFreire2022/Lernomeenderecotelefone) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@DeiseFreire2022/Lernomeenderecotelefone) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=FoYSZD8ORkI&list=PLZpH1iUcDo5hCRy-PXWZR5xkEwbFw1LB3&index=6)
 
 ## Gerenciamento de Dados do Usuário
 
