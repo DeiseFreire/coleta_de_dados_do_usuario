@@ -1,0 +1,136 @@
+1
+00:00:00,000 --> 00:00:50,666
+# Função para ler o nome
+
+2
+00:00:50,666 --> 00:01:07,632
+def ler_nome():
+
+3
+00:01:07,632 --> 00:01:12,466
+""" ... """
+
+4
+00:01:12,466 --> 00:01:34,499
+Função para ler o nome do usuários.
+
+5
+00:01:34,499 --> 00:01:41,432
+Retorna:
+
+6
+00:01:41,432 --> 00:02:06,699
+str: O nome do usuário.
+
+7
+00:02:06,699 --> 00:02:32,366
+nome = input("Digite o seu nome: ")
+
+8
+00:02:32,366 --> 00:02:43,532
+return nome
+
+9
+00:02:43,532 --> 00:03:03,233
+# Função para ler o endereço
+
+10
+00:03:03,233 --> 00:03:21,899
+def ler_endereco():
+
+11
+00:03:21,899 --> 00:03:32,033
+""" ... """
+
+12
+00:03:32,033 --> 00:03:40,000
+Função para ler o endereço do usuário.
+
+13
+00:03:40,000 --> 00:03:43,865
+Retorna:
+
+14
+00:03:43,865 --> 00:03:54,499
+str: O endereço do usuário.
+
+15
+00:03:54,499 --> 00:04:26,333
+endereco = input("Digite o seu endereço: ")
+
+16
+00:04:26,333 --> 00:04:39,166
+return endereco
+
+17
+00:04:39,166 --> 00:04:47,466
+# Função para ler o telefone
+
+18
+00:04:47,466 --> 00:05:06,000
+def ler_telefone():
+
+19
+00:05:06,000 --> 00:05:14,266
+""" ... """
+
+20
+00:05:14,266 --> 00:05:35,799
+Função para ler o telefone do usuário.
+
+21
+00:05:35,799 --> 00:05:41,066
+Retorna:
+
+22
+00:05:41,066 --> 00:05:53,799
+str: O telefone do usuário.
+
+23
+00:05:53,799 --> 00:06:23,865
+telefone = input("Digite o seu telefone: ")
+
+24
+00:06:23,865 --> 00:06:36,832
+return telefone
+
+25
+00:06:36,832 --> 00:07:12,732
+# Função principal para ler o nome, endereço, telefone e imprimir na tela.
+
+26
+00:07:12,732 --> 00:07:41,666
+nome = ler_nome()
+
+27
+00:07:41,666 --> 00:07:56,199
+endereco = ler_endereco()
+
+28
+00:07:56,199 --> 00:08:06,233
+telefone = ler_telefone()
+
+29
+00:08:06,233 --> 00:08:22,666
+# Imprimir os dados do usuário
+
+30
+00:08:22,666 --> 00:08:36,666
+print(f"Nome: {nome}")
+
+31
+00:08:36,666 --> 00:08:55,732
+print(f"Endereço: {endereco}")
+
+32
+00:08:55,732 --> 00:09:10,965
+print(f"Telefone: {telefone}")
+
+33
+00:09:10,965 --> 00:09:33,632
+if __name__ == "__main__":
+
+34
+00:09:33,632 --> 00:09:44,566
+main()
+
